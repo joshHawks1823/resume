@@ -1,9 +1,0 @@
-/* Centering the resume */
-.center-resume {
-  display: flex;
-  justify-content: center;
-}
-
-img {
-  max-width: 60%;
-}
